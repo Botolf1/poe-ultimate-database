@@ -5,7 +5,7 @@ ifexist, youtube.ico
 #include json.ahk
 FileEncoding,UTF-8
 FileName_y = %filepath%youtube.txt
-apikey=AIzaSyBG6nWc-6f9HJkC9O9ez0vIk5kZM-1Unv4
+apikey=*************************************
 mark2:
 filedelete, videolist.txt
 filedelete, views.txt

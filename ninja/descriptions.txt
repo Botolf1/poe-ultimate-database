@@ -1,7 +1,7 @@
 ilvl 83	{""key"":""ilvl"",""value"":83}			
 ilvl 83+	{""key"":""ilvl"",""value"":""83+""}			
-4-charged	{""key"":""uses"",""value"":4}			
-16-charged	{""key"":""uses"",""value"":16}			
+4-charged	{""key"":""uses"",""value"":""4""}			
+16-charged	{""key"":""uses"",""value"":""16""}			
 T16	{""key"":""tier"",""value"":""16""}			
 T1	{""key"":""tier"",""value"":""1""}			
 T2	{""key"":""tier"",""value"":""2""}			
